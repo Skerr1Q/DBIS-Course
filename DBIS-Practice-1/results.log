@@ -1,0 +1,10 @@
+2021-04-02 20:06:59,410 - Connecting to the PostgreSQL database
+2021-04-02 20:07:03,454 - Can't connect to database. Trying again
+2021-04-02 20:07:10,403 - Connection restored
+2021-04-02 20:07:10,544 - Database successfully created
+2021-04-02 20:12:04,734 - Table successfully populated
+2021-04-02 20:12:04,736 - Time to populate the table is 294.1902506351471
+2021-04-02 20:17:26,814 - Table successfully populated
+2021-04-02 20:17:26,820 - Time to populate the table is 321.6676652431488
+2021-04-02 20:17:57,363 - CSV file formed
+2021-04-02 20:17:57,381 - Database connection closed.

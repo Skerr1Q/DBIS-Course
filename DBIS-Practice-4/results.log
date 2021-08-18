@@ -1,0 +1,11 @@
+2021-05-23 13:47:39,371 - Can't connect to database. Trying again
+2021-05-23 13:48:12,481 - Can't connect to database. Trying again
+2021-05-23 13:48:45,591 - Can't connect to database. Trying again
+2021-05-23 13:49:18,704 - Can't connect to database. Trying again
+2021-05-23 13:49:33,802 - Connection created.
+2021-05-23 13:49:33,819 - Inserting data from Odata2019File.csv
+2021-05-23 13:52:18,518 - Time to insert data from Odata2019File.csv: 164.6989905834198
+2021-05-23 13:52:18,524 - Inserting data from Odata2020File.csv
+2021-05-23 13:55:18,473 - Time to insert data from Odata2020File.csv: 179.94831585884094
+2021-05-23 13:55:25,934 - CSV file formed
+2021-05-23 13:55:26,054 - Connection closed

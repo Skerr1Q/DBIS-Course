@@ -1,0 +1,17 @@
+body{
+    font-family:'Georgia';
+}
+
+.form-signin input{
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+.form-floating{
+    margin-bottom: 10px;
+}
+
+.add-button{
+    padding: 40px;
+}
